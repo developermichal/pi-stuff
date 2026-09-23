@@ -5,8 +5,8 @@ U8G2_SH1106_128X64_NONAME_F_4W_SW_SPI u8g2(
   13,              // CLK / SCL
   11,              // DATA / SDA
   U8X8_PIN_NONE,   // CS
-  7,               // DC
-  8                // RESET
+  8,               // DC
+  7                // RESET
 );
 
 void setup() {
